@@ -1,0 +1,67 @@
+.navbar-brand {
+  font-family: "Montserrat";
+  font-weight: 100;
+  padding-left: 10px;
+}
+.nav-item{
+  padding: 0 15px;
+}
+#top{
+  position: relative;
+  text-align: center;
+  color: #fff;
+  background: url("https://thumbs.dreamstime.com/b/guitar-25279757.jpg");
+  background-size:cover;
+
+}
+.centered{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+
+}
+.mytunes{
+  padding: 20px;
+}
+.music-icon{
+  margin: 10px;
+  padding: 10px;
+}
+#features{
+  padding-top: 40px;
+  background-color: grey;
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 5% 5%;
+}
+.para1{
+  font-family: sans-serif;
+  line-height: 2;
+  margin: 10px;
+}
+.mockup{
+  padding: 10px;
+  margin: 10px;
+}
+#top2{
+  text-align: center;
+  color:#000;
+  padding: 60px;
+}
+.para2{
+  font-family: sans-serif;
+  line-height: 1.5;
+  font-size: 20px;
+  padding: 10px;
+
+}
+.white-section{
+  background-color: #fff;
+  text-align: center;
+}
+.social-icon{
+  margin:20px 10px;
+}
